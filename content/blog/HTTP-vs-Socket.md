@@ -55,10 +55,10 @@ HTTP메세지는 HTTP 요청메세지와 HTTP 응답메세지로 구분된다.
 HTTP메세지에 모든 것을 전송할 수 있다. HTML, TEXT, 음성, 영상, 파일, JSON, XML 등등
 
 - **기본 구조**
-  - **<span style = "color:#7FFFD4">start-line :</span>** 시작 라인
-  - **<span style = "color:#7FFFD4">header :</span>** 헤더
-  - **<span style = "color:#7FFFD4">empty line :</span>** 공백 라인(CRLF, 필수)
-  - **<span style = "color:#7FFFD4">message :</span>** body
+  - **<span style = "color:#8A2BE2">start-line :</span>** 시작 라인
+  - **<span style = "color:#8A2BE2">header :</span>** 헤더
+  - **<span style = "color:#8A2BE2">empty line :</span>** 공백 라인(CRLF, 필수)
+  - **<span style = "color:#8A2BE2">message :</span>** body
   
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIeSLc%2Fbtrn14dJdcq%2FmY4E7gMi0gjNpoWSU95eP0%2Fimg.png)
@@ -67,14 +67,14 @@ HTTP메세지에 모든 것을 전송할 수 있다. HTML, TEXT, 음성, 영상,
 
 > #### Socket 통신은 왜 필요할까요?
 > HTTP는 **단방향 통신**이기 때문에 서버가 클라이언트에게 먼저 메세지를 보낼 수 없습니다.
-> 실시간 채팅 기능과 같이 **지연이 짧아야 하는 많은 양의 데이터를 자주 통신해야 할 때** 서버도 클라이언트에게 요청을 보낼 수 있는 **<U>양방향 통신</U>**이 필요하기 때문입니다.
+> 실시간 채팅 기능과 같이 **지연이 짧아야 하는 많은 양의 데이터를 자주 통신해야 할 때** 서버도 클라이언트에게 요청을 보낼 수 있는 **<u>양방향 통신</u>**이 필요하기 때문입니다.
 
 ## Socket 통신
 아래는 위키백과의 정의입니다.
 
-> **소켓(Socket)**이란 <U>네트워크 상에서 동작하는 프로그램 간 통신의 종착점(Endpoint), 접속의 끝 부분</U>이라 합니다.
+>  **소켓**(Socket)이란 <u>네트워크 상에서 동작하는 프로그램 간 통신의 종착점(Endpoint), 접속의 끝 부분</u>이라 합니다.
 > 종착점인 Endpoint는 IP 주소와 Port 번호의 조합으로 이루어진 최종 목적지(PC, 핸드폰 등의 접속 연결부)를 나타냅니다.
-> 클라이언트(프로그램 1)와 서버(프로그램 2) 양쪽에서 서로에게 데이터 전달을 하는 방식의 **<U>양방향 통신</U>**으로, 소켓에서 서버는 요청을 기다릴 필요가 없습니다. 모든 연결은 2개의 Endpoint로 유일하게 식별될 수 있습니다.
+> 클라이언트(프로그램 1)와 서버(프로그램 2) 양쪽에서 서로에게 데이터 전달을 하는 방식의 **<u>양방향 통신</u>**으로, 소켓에서 서버는 요청을 기다릴 필요가 없습니다. 모든 연결은 2개의 Endpoint로 유일하게 식별될 수 있습니다.
 
 조금 더 쉽게 얘기하자면,
 소켓은 사전적으로 '전구 따위를 끼워 넣어 접속하게 하는 기구, 연결부'를 일컫는데 콘센트 구멍을 떠올리면 쉽습니다.
