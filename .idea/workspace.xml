@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a4a53a-7eec-4852-bf79-e370732cc7b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/blog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/pages/404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/pages/about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/pages/post.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/pages/posts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/pages/tags.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_burger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_github-syntax-highlighting.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_post-list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_social-icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/:blog-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/images/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i18n/de.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i18n/en.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/_markup/render-link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/anchored-headings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/browse-by-tag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/burger.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/favicon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/math.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/post-pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/seo-schema.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/social-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/taxonomy/tag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/custom.scss_3397a22b18c3bef8be8c21c341bc8237.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/custom.scss_3397a22b18c3bef8be8c21c341bc8237.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/404.scss_1077e6a05440228a8f1e441090f292b6.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/404.scss_1077e6a05440228a8f1e441090f292b6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/tags.scss_f297ce3c5afa481cf9ec4d5576b36b22.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/tags.scss_f297ce3c5afa481cf9ec4d5576b36b22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/table-of-contents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-theme-codex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/Typora.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +231,7 @@
       <workItem from="1657129633267" duration="8184000" />
       <workItem from="1657145203316" duration="43000" />
       <workItem from="1657145306106" duration="728000" />
-      <workItem from="1657146048973" duration="6909000" />
+      <workItem from="1657146048973" duration="7768000" />
     </task>
     <servers />
   </component>
