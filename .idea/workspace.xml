@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99a4a53a-7eec-4852-bf79-e370732cc7b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/blog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/overrides.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/posts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/tags.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_burger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_github-syntax-highlighting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_post-list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_social-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/partials/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/:blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/de.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/_markup/render-link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/anchored-headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/browse-by-tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/burger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/math.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/post-pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/seo-schema.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/social-icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/taxonomy/tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/custom.scss_3397a22b18c3bef8be8c21c341bc8237.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/custom.scss_3397a22b18c3bef8be8c21c341bc8237.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/404.scss_1077e6a05440228a8f1e441090f292b6.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/404.scss_1077e6a05440228a8f1e441090f292b6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/tags.scss_f297ce3c5afa481cf9ec4d5576b36b22.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/pages/tags.scss_f297ce3c5afa481cf9ec4d5576b36b22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/table-of-contents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-theme-codex" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1657130830" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1657130829" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ba1xxD0qwyliK4DUaVKBXVkExA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/scss" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/content/posts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d50f9e34-b87f-4a10-9472-c0fa31c33b0f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55148" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="6ee44d47-5cd0-4ed3-8ff4-81312732feb4" />
+                    <id>6ee44d47-5cd0-4ed3-8ff4-81312732feb4</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="6ee44d47-5cd0-4ed3-8ff4-81312732feb4" />
+                    <id>6ee44d47-5cd0-4ed3-8ff4-81312732feb4</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="3635bd6f-c7ae-49e6-b1c8-5c969672a3ae" />
+                    <id>3635bd6f-c7ae-49e6-b1c8-5c969672a3ae</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="3635bd6f-c7ae-49e6-b1c8-5c969672a3ae" />
+                    <id>3635bd6f-c7ae-49e6-b1c8-5c969672a3ae</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55149" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99a4a53a-7eec-4852-bf79-e370732cc7b9" name="Changes" comment="" />
+      <created>1657129632068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657129632068</updated>
+      <workItem from="1657129633267" duration="8184000" />
+      <workItem from="1657145203316" duration="43000" />
+      <workItem from="1657145306106" duration="728000" />
+      <workItem from="1657146048973" duration="6909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
