@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on HyunJae&#39;s Blog</title>
+    <link>https://hyun-jae.netlify.app/tags/post/</link>
+    <description>Recent content in post on HyunJae&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 07 Jul 2022 07:27:08 +0900</lastBuildDate><atom:link href="https://hyun-jae.netlify.app/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>:Blog Post</title>
+      <link>https://hyun-jae.netlify.app/blog/first-post/</link>
+      <pubDate>Thu, 07 Jul 2022 07:27:08 +0900</pubDate>
+      
+      <guid>https://hyun-jae.netlify.app/blog/first-post/</guid>
+      <description>First Post 사실 첫 포스트는 아닙니다. 벌써 세번째 만들고 있습니다.
+목차 테스트 </description>
+    </item>
+    
+  </channel>
+</rss>
