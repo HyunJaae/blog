@@ -25,6 +25,8 @@ priority = 0.5
 
 # Optional params
 [params]
+description = "HyunJae's Tech Blog"
+
 # Follow the Hugo date/time format reference here:
 # https://gohugo.io/functions/format/#gos-layout-string
 dateFormat = "Jan 2 2006"
