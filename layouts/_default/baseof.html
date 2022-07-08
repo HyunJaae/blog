@@ -13,6 +13,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="https://hyun-jae.netlify.app/blog/" />
 
+  {{ template "_internal/opengraph.html" . }}
+
   <!-- Twitter -->
   {{ if isset .Site.Params "twitter" }}
   <meta name="twitter:card" content="summary" />
