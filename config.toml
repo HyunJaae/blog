@@ -26,7 +26,7 @@ priority = 0.5
 # Optional params
 [params]
 description = "HyunJae's Tech Blog"
-images = ["blog-og_tag_image.png"]
+images = ["/images/blog-og_tag_image.png"]
 title = "HyunJae's Tech Blog"
 name = "HyunJae"
 
