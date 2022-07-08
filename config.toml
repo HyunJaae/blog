@@ -2,9 +2,9 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "HyunJae"
+title = "HyunJae's Blog"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://hyun-jae.netlify.app/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
