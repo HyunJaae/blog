@@ -23,9 +23,14 @@ changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
 
+[taxonomies]
+series = 'series'
+
 # Optional params
 [params]
 description = "HyunJae's Tech Blog"
+images = ["blog-og_tag_image"]
+title = "HyunJae's Tech Blog"
 
 # Follow the Hugo date/time format reference here:
 # https://gohugo.io/functions/format/#gos-layout-string
