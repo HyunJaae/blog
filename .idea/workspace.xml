@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a4a53a-7eec-4852-bf79-e370732cc7b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/custom.scss_3397a22b18c3bef8be8c21c341bc8237.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/custom.scss_3397a22b18c3bef8be8c21c341bc8237.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/404.scss_1077e6a05440228a8f1e441090f292b6.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/404.scss_1077e6a05440228a8f1e441090f292b6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/about.scss_aba0dac60eb4049f68f83f39827d1b50.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/post.scss_9b5a08989dabcb86a5d520fc24aa3741.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/posts.scss_45b5651bc7f84edbd12295da47cc9fcd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/tags.scss_f297ce3c5afa481cf9ec4d5576b36b22.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/string/scss/pages/tags.scss_f297ce3c5afa481cf9ec4d5576b36b22.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/baseof.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +232,7 @@
       <workItem from="1657129633267" duration="8184000" />
       <workItem from="1657145203316" duration="43000" />
       <workItem from="1657145306106" duration="728000" />
-      <workItem from="1657146048973" duration="14541000" />
+      <workItem from="1657146048973" duration="15204000" />
     </task>
     <servers />
   </component>
