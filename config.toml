@@ -13,6 +13,16 @@ copyright = "© {year}"
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = "G-1S4L85M124"
 
+# robots.txt
+enableRobotsTXT = true
+
+# sitemap 생성
+[sitemap]
+# always, hourly daily, weekly, monthly, yearly, never
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+
 # Optional params
 [params]
 # Follow the Hugo date/time format reference here:
