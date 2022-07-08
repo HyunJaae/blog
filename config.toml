@@ -27,7 +27,6 @@ priority = 0.5
 [params]
 description = "HyunJae's Tech Blog"
 images = ["/images/blog-og_tag_image.png"]
-title = "HyunJae's Tech Blog"
 name = "HyunJae"
 
 # Follow the Hugo date/time format reference here:
