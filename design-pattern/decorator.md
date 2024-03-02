@@ -191,7 +191,7 @@ public class StarbuzzCoffee {
 
 위 로직을 그림으로 표현하면 아래와 같다.
 
-![데코레이터 패턴](../images/decorator/데코레이터 패턴.png)
+![decorator-pattern](../images/decorator/decorator-pattern.png)
 
 이제 앞서 구현한 방법의 단점들을 모두 해결할 수 있게 됐다.
 
@@ -203,6 +203,6 @@ public class StarbuzzCoffee {
 우리에게 친숙한 Java.io 패키지를 데코레이터 패턴을 통해 알아보자. 데코레이터 패턴을 알고 나면 I/O 클래스가 왜 그렇게 되어 있는지 이해할 수 있다.
 파일에서 데이터를 읽어오는 스트림에 기능을 더하는 데코레이터를 사용하는 객체는 다음과 같은 형식으로 구성된다.
 
-![java io 라이브러리 구성](../images/decorator/java io 라이브러리 구성.png)
+![java-io-component](../images/decorator/java-io-component.png)
 
 자바 I/O를 보면 데코레이터의 단점도 발견할 수 있다. 데코레이터 패턴을 사용해서 디자인을 하다 보면 잡다한 클래스가 너무 많아진다. 하지만 데코레이터가 어떤 식으로 작동하는지 이해하면 다른 사람이 데코레이터 패턴을 활용해서 만든 API를 끌어 쓰더라도 클래스를 데코레이터로 감싸서 원하는 행동을 구현할 수 있다.
