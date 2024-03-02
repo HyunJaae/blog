@@ -2,13 +2,15 @@
 
 ### - Design Pattern
 
-[Decorator](../design-pattern/decorator.md)
+[Factory](https://github.com/HyunJaae/blog/blob/main/design-pattern/factory.md)
 
-[Command](../design-pattern/command.md)
+[Decorator](https://github.com/HyunJaae/blog/blob/main/design-pattern/decorator.md)
+
+[Command](https://github.com/HyunJaae/blog/blob/main/design-pattern/command.md)
 
 ### - Fundamental
 
-[DOM](../dom.md)
+[DOM](https://github.com/HyunJaae/blog/blob/main/DOM.md)
 
-[Overloading Overriding](../overloading-overriding)
+[Overloading Overriding](https://github.com/HyunJaae/blog/blob/main/overloading-overriding.md)
 
