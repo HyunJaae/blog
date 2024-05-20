@@ -10,7 +10,7 @@
 
 ### - Fundamental
 
-[DOM](https://github.com/HyunJaae/blog/blob/main/DOM.md)
+[DOM](https://github.com/HyunJaae/blog/blob/main/javacript/DOM.md)
 
-[Overloading Overriding](https://github.com/HyunJaae/blog/blob/main/overloading-overriding.md)
+[Overloading & Overriding](https://github.com/HyunJaae/blog/blob/main/java/overloading-overriding.md)
 
